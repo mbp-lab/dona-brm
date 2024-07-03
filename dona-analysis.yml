@@ -1,0 +1,14 @@
+name: dona-analysis
+channels:
+  - defaults
+dependencies:
+  - python=3.8.12
+  - jupyter=1.0.0
+  - pandas=1.4.1
+  - openpyxl=3.0.5
+  - scipy=1.7.3
+  - matplotlib=3.5.1
+  - pillow=9.0.1
+
+ 
+

@@ -1,0 +1,14 @@
+*.pdf
+*.csv
+*.png
+*.pyc
+*.cfg
+*.dat
+*.svg
+*.xlsx
+*.bin
+/reports
+/data
+**/.ipynb_checkpoints/
+.vscode/
+.idea/
