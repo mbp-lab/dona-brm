@@ -5,7 +5,7 @@ The code is written in Python and structured into several Jupyter notebooks. Bel
 ## Getting started
 ### Setup
 1. Start by cloning this repository somewhere on your machine.
-1. The data of the study is available on Zenodo at [URL](URL). Please download all data and place it in the `data` folder.
+1. The data of the study is available on Zenodo at [this URL](https://zenodo.org/records/12570525). Please download all data and place it in the `data` folder.
 1. Next, install conda. Instructions specific to your operating system can be found at the [conda website](https://conda.io/projects/conda/en/latest/user-guide/install/index.html).
 1. After conda is set up, open a terminal/shell, navigate to the location where you cloned this repository to and create the Python environment with the command `conda env create -f dona-analysis.yml -n dona-analysis`.
 1. With the environment created, activate it using `conda activate dona-analysis`.
