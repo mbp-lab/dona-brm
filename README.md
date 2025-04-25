@@ -1,5 +1,5 @@
 # Welcome to the analysis code of the Dona evaluation study! 
-This code reproduces the analysis in the paper "Development and Evaluation of Dona, a Privacy-Preserving Donation Platform for Messaging Data from WhatsApp, Facebook and Instagram" by Hakobyan, Hillmann, Martin, Böttinger and Drimalla submitted to Behavior Research Methods. 
+This code reproduces the analysis in the paper "Development and Evaluation of Dona, a Privacy-Preserving Donation Platform for Messaging Data from WhatsApp, Facebook and Instagram" by Hakobyan, Hillmann, Martin, Böttinger and Drimalla submitted to Behavior Research Methods: https://link.springer.com/article/10.3758/s13428-024-02593-z
 
 The code is written in Python and structured into several Jupyter notebooks. Below you can find instructions on how to obtain the data, set up the environment, and run the analyses. 
 ## Getting started
